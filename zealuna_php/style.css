@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(17, 79, 8);
+  font-family: Arial;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(19, 18, 18);
+}
+
+img {
+  border-radius: 50%;
+}
+
+table {
+  margin: auto;
+}
